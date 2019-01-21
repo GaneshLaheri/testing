@@ -6,7 +6,7 @@ to create those guardrails - providing organizations with a working balance
 between agility and compliance. Please see [other help sections](https://help.github.com) for
 implementation specifics and how to guides.
 
-### Design Beliefs
+## Design Beliefs
 Balancing agility with controls requires a clear and simple set of beliefs
 guiding our designs and trade-off decisions. This section outlines how
 Turbot thinks about Enterprise Controls for Cloud Infrastructure.
