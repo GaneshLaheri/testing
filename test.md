@@ -11,7 +11,7 @@ Balancing agility with controls requires a clear and simple set of beliefs
 guiding our designs and trade-off decisions. This section outlines how
 Turbot thinks about Enterprise Controls for Cloud Infrastructure.
 
-Cloud Infrastructure is managed dynamically by Applications & DevOps Teams.
+##### Cloud Infrastructure is managed dynamically by Applications & DevOps Teams.
 Cloud Infrastructure is designed to be changed in real time,
 providing scalability and reliability in Production and flexibility in
 Development. Enterprises moving to Cloud Infrastructure need to give control of
