@@ -1,4 +1,4 @@
-### Turbot Concepts
+## Turbot Concepts
 Turbot provides enterprise guardrails for Amazon Web Services.
 
 This document outlines the beliefs, models and assumptions Turbot has defined
